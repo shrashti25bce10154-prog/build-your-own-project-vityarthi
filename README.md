@@ -1,2 +1,5 @@
 # build-your-own-project-vityarthi
-Students studying in different cities often face problem in choosing the most efficient means of transport for travelling from their home city to college . Therefore this code helps them to choose the most efficient means of transport.
+Farmers often face challenges in predicting crop yield, scheduling irrigation, and monitoring 
+soil health due to lack of accessible digital tools. 
+The goal is to design a menu-driven Python program that assists farmers with key 
+agricultural insights using simple data inputs.
